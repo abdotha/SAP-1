@@ -11,9 +11,8 @@ set the (clr) signal to low in order to make the program start.
 
  # Company:  Benha Faculty of Engineering
  # Engineer: Abdelrhman Ayman Taha
-
 # Create Date:    20:39:28 30/05/2023 
-# Module Name:    SAP1 - Structural 
-# Project Name:   SAP_1
+ Module Name:    SAP1 - Structural 
+ Project Name:   SAP_1
 -- Version: 1.0 
 
